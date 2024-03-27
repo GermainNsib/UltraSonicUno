@@ -6,7 +6,7 @@ Components:
 <p>2 leds(Green and Red)</p>
 <P>1 LCD I2C 1200x2</P>
 <p>Arduino Bord uno</p>
-Jumpers cable
+<p>Jumpers cable</p>
 2 Resistors 220ohm 
 Ultra Sonic Censor 
 
