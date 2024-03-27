@@ -7,6 +7,6 @@ Components:
 <P>1 LCD I2C 1200x2</P>
 <p>Arduino Bord uno</p>
 <p>Jumpers cable</p>
-2 Resistors 220ohm 
+<p>2 Resistors 220ohm </p>
 Ultra Sonic Censor 
 
