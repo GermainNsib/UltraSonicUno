@@ -10,3 +10,11 @@ Components:
 <p>2 Resistors 220ohm </p>
 <p>Ultra Sonic Censor</p> 
 
+<p>Setup :
+
+Ultrasonic Sensor:
+ VCC --> 5V
+ Trig --> Digital Pin 2
+ Echo --> Digital Pin 3
+ GND --> GND
+<p/>
