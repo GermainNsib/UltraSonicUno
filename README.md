@@ -19,4 +19,25 @@ Ultrasonic Sensor:
  GND --> GND
 <p/>
 
+<p>
+ LEDs:
+ Green LED:
+  Anode (long leg) --> Digital Pin 4
+  Cathode (short leg) --> Resistor --> GND
 
+ Red LED:
+  Anode (long leg) --> Digital Pin 5
+  Cathode (short leg) --> Resistor --> GND
+LCD Display:
+ GND --> GND
+ VCC --> 5V
+ SDA --> A4 (analog pin 4)
+ SCL --> A5 (analog pin 5)
+
+ I2C Adapter:
+ GND --> GND
+ VCC --> 5V
+ SDA --> A4 (analog pin 4)
+ SCL --> A5 (analog pin 5)
+
+</p>
