@@ -8,5 +8,5 @@ Components:
 <p>Arduino Bord uno</p>
 <p>Jumpers cable</p>
 <p>2 Resistors 220ohm </p>
-Ultra Sonic Censor 
+<p>Ultra Sonic Censor</p> 
 
